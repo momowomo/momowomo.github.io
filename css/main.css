@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;600;800&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: monospace;
+    font-family: 'Sora', sans-serif;
 }
 
 html{
@@ -78,7 +79,7 @@ html{
 .heading{
     color: white;
     font-size: 3rem;
-    font-family: monospace;
+    font-family: 'Sora', sans-serif;
     text-align: center;
     transform: scale(1,1.1);
 }
@@ -176,7 +177,7 @@ html{
 }
 
 .about .box img{
-    height: 400px;
+    width: 50%;
     padding: 0px 30px;
 }
 
